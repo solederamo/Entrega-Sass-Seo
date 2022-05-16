@@ -1,0 +1,18 @@
+
+footer {grid-area: footer;
+    display: flex;
+    justify-content: center;
+    background-position:left;
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    color: rgb(14, 14, 14);
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+
+    .textofooter {text-decoration: none;
+        list-style-type: none;}
+    }
+
